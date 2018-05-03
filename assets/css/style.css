@@ -1,0 +1,21 @@
+* {
+    box-sizing: border-box;
+}
+
+#masthead {
+    background-image: url("../images/train.jpg");
+    width: 1000px;
+    height: 400px;
+    text-align: center;
+    padding-top: 250px;
+}
+
+.titleText {
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: skyblue;
+    margin:0px
+}
+
+.container {
+    width: 1000px;
+}
